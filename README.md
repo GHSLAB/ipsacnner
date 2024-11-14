@@ -2,7 +2,7 @@
 
 多线程ping指定网段IP地址
 
-![image-1](assets/image-1.png)
+![image-1](./assets/image-1.png)
 
 ### 部署
 
